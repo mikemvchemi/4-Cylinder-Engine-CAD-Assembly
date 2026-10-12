@@ -3,7 +3,7 @@
 ## Project Overview
 A complete 3D mechanical assembly of a 4-cylinder internal combustion engine designed in Autodesk Inventor. The model features a synchronized crankshaft, connecting rods, and piston mechanisms with precise mechanical constraints to simulate realistic engine kinematics.
 
-![Engine Render](engine-render.png)
+![Engine Render](4 cylinder engine assembly.png)
 
 ## Technical Details
 * **Software:** Autodesk Inventor Professional
